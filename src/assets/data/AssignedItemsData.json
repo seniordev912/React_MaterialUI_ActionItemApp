@@ -1,0 +1,7 @@
+[
+    { "id": 0, "value": "Assigned by me" },
+    { "id": 1, "value": "Assigned to me" },
+    { "id": 2, "value": "CC'ed" },
+    { "id": 3, "value": "Draft" },
+    { "id": 4, "value": "Completed " }
+  ]

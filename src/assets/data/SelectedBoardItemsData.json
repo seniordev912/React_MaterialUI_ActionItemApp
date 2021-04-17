@@ -1,0 +1,7 @@
+[
+  { "id": 0, "value": "By Supplier" },
+  { "id": 1, "value": "By Project" },
+  { "id": 2, "value": "By Team" },
+  { "id": 3, "value": "By Individual" },
+  { "id": 4, "value": "By Due Date" }
+]
